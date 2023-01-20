@@ -1,6 +1,6 @@
 
 <p style="font-size:14px" align="right" text="bold">
-<a Airdrop Archer<img src="https://avatars.githubusercontent.com/u/119570356?v=4" width="40"/></a>
+<a >Airdrop Archer <img src="https://avatars.githubusercontent.com/u/119570356?v=4" width="40"/></a>
 </p>
 
 <p align="center">
