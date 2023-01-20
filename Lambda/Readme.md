@@ -1,6 +1,6 @@
 
 <p style="font-size:14px" align="right">
-<a href="https://github.com/elangrr/testnet_guide" target="_blank">More Guide Tutorials<img src="https://avatars.githubusercontent.com/u/119570356?v=4" width="30"/></a>
+<img src="https://avatars.githubusercontent.com/u/119570356?v=4" width="30"/></a>
 </p>
 
 <p align="center">
